@@ -1,1 +1,16 @@
-https://www.youtube.com/watch?v=Z9dvM7qgN9s&t=705s
+## Terminology
+* Repo
+* Tag
+  * [Tagging is generally used to capture a point in history that is used for a marked version release](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag)   
+* Sub-Module
+
+## Remote
+* git clone
+  * Downloads an existing Git repository to your local computer.  
+  * git clone https://github.com/... 
+* git pull
+* git push
+
+## Local
+* git checkout
+* 
