@@ -20,4 +20,9 @@
 
 ## Local
 * git checkout
-* 
+* Revert the changes only in current working directory
+  * git checkout -- . 
+* Revert changes to modified files.
+  * git reset --hard 
+* Remove all untracked files and directories.
+  * git clean -fd ( '-f' is force, '-d' is remove directories. )
